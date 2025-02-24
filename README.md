@@ -1,5 +1,9 @@
 ### AI Movie Describer Agent Technical Documentation
 
+**"Try it out" Link: https://discord.gg/D4QHrrMTh9
+- Speack is "requests" channel. Just simply speak, no more "@" or "/" command.
+- Get the result in "result" channel.
+  
 **Version: 1.0**  
 **Last Updated: February 23, 2025**
 
