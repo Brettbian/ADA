@@ -4,7 +4,8 @@
 
 ### AI Movie Describer Agent Technical Documentation
 **"Try it out" Link:** https://discord.gg/D4QHrrMTh9
-- Speack is "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
+**"Demo" Link:** https://vimeo.com/1059599841
+- Speak in "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
 - Get the result in "result" channel.
 
 **"How to use Make_blueprint.json"**
@@ -15,10 +16,6 @@
   
 **Version: 1.0**  
 **Last Updated: February 23, 2025**
-
-<p align="center">
-  <iframe title="vimeo-player" src="https://player.vimeo.com/video/1059599841?h=d83582194c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-</p>
 
 ---
 
