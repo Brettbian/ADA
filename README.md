@@ -4,7 +4,7 @@
 - Speack is "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
 - Get the result in "result" channel.
 
-**"How to use blueprint.json"**
+**"How to use Make_blueprint.json"**
 - Download JSON file.
 - Open Make.com.
 - Create a "new scenario"
