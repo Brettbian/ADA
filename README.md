@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./images/logo.webp" alt="AI Movie Describer Agent Logo" width="10%">
+  <img src="./images/logo.webp" alt="AI Movie Describer Agent Logo" width="20%">
 </p>
+
 ### AI Movie Describer Agent Technical Documentation
 **"Try it out" Link:** https://discord.gg/D4QHrrMTh9
 - Speack is "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
