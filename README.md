@@ -3,6 +3,12 @@
 **"Try it out" Link:** https://discord.gg/D4QHrrMTh9
 - Speack is "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
 - Get the result in "result" channel.
+
+**"How to use blueprint.json"**
+- Download JSON file.
+- Open Make.com.
+- Create a "new scenario"
+- Import your download JSON.
   
 **Version: 1.0**  
 **Last Updated: February 23, 2025**
