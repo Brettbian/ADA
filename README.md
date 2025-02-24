@@ -3,7 +3,7 @@
 </p>
 
 ### AI Movie Describer Agent Technical Documentation
-**"Try it out" Link:** https://discord.gg/D4QHrrMTh9
+**"Try it out" Link:** https://discord.gg/D4QHrrMTh9 <br>
 **"Demo" Link:** https://vimeo.com/1059599841
 - Speak in "requests" channel. Just simply speak, no more **"@"** or **"/"** command.
 - Get the result in "result" channel.
