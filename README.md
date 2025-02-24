@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.jpg" alt="AI Movie Describer Agent Logo" width="20%">
+  <img src="./images/logo.png" alt="AI Movie Describer Agent Logo" width="20%">
 </p>
 
 ### AI Movie Describer Agent Technical Documentation
