@@ -36,7 +36,9 @@
 
 ### 2.1 System Architecture
 
-![System Architecture]()
+![System Architecture](./images/video_search.png)
+![System Architecture](./images/video_preprocessing.png)
+![System Architecture](./images/audio_generation.png)
 
 - **Front End**: Discord voice interface (supports multiple languages).
 - **Middleware**: Make.com automation workflow engine.
