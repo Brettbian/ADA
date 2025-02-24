@@ -114,7 +114,7 @@
 - **Social Interaction**: Face recognition and emotion analysis (“Your friend is 3 meters to the left, smiling”).
 
 **Technical Roadmap**:  
-![Vision Roadmap]()
+![Technical Chart](./images/tech_chart.png)
 
 ---
 
