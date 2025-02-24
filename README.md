@@ -38,11 +38,11 @@
 
 
 - **Front End**: Discord voice interface (supports multiple languages).
-- ![System Architecture](./images/video_search.png)
+  ![System Architecture](./images/video_search.png)
 - **Middleware**: Make.com automation workflow engine.
-- ![System Architecture](./images/video_preprocessing.png)
+  ![System Architecture](./images/video_preprocessing.png)
 - **Back End**: Google Drive (storage), Google Sheets (structured data), OpenAI API (image analysis and text generation), ElevenLabs (TTS).
-- ![System Architecture](./images/audio_generation.png)
+  ![System Architecture](./images/audio_generation.png)
 
 ### 2.2 Core Modules and Tech Stack
 
